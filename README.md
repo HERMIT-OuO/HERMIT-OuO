@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HEMITOUO</h1>
 
-- 📝 I regularly write articles on [hermit.world](hermit.world)
+- 📝 I regularly write articles on [hermit.world](https://hermit.world)
 - 📫 How to reach me **hermitouo@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
